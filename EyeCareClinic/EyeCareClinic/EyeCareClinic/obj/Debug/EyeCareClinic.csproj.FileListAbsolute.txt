@@ -1,0 +1,17 @@
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\bin\Debug\EyeCareClinic.exe.config
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\bin\Debug\EyeCareClinic.exe
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\bin\Debug\EyeCareClinic.pdb
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\bin\Debug\Guna.UI.dll
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\bin\Debug\Guna.UI2.dll
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.Form1.resources
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.Properties.Resources.resources
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.csproj.GenerateResource.cache
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.csproj.CopyComplete
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.exe
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.pdb
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.Appointments.resources
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.Login.resources
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.Prescriptions.resources
+C:\Users\wisem\Desktop\EyeCareClinic\EyeCareClinic\EyeCareClinic\obj\Debug\EyeCareClinic.Treatments.resources
